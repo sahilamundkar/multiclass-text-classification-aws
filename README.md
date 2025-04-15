@@ -2,6 +2,8 @@
 
 A production-ready news headline classification system deployed on AWS Cloud.
 
+Video Link : https://drive.google.com/file/d/1iWA-DgLednUmPh6HMF8MwcBVIVWC3bhR/view?usp=sharing
+
 ## Project Overview
 
 This project implements an end-to-end machine learning pipeline for classifying news headlines into four categories: Business, Entertainment, Science, and Health. It demonstrates how to take a model from development to production using AWS services.
