@@ -7,8 +7,7 @@ A production-ready news headline classification system deployed on AWS Cloud.
 This project implements an end-to-end machine learning pipeline for classifying news headlines into four categories: Business, Entertainment, Science, and Health. It demonstrates how to take a model from development to production using AWS services.
 
 ## Architecture
-
-![System Architecture](https://raw.githubusercontent.com/sahilamundkar/multiclass-text-classification-aws/main/architecture.png)
+![Editor _ Mermaid Chart-2025-04-15-022717](https://github.com/user-attachments/assets/965be26d-f2bf-4aaa-a1c4-d796250bf55e)
 
 The system consists of two main pipelines:
 
