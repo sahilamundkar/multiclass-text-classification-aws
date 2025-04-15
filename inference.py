@@ -77,7 +77,7 @@ def predict_fn(input_data, model):
 
     probabilities = torch.softmax(outputs, dim = 1).cpu().numpy()
 
-    class_names = ["Business", "Science", "Entertainment", "Health"]
+    class_names = ["Business", "Entertainment", "Science", "Health"]
     predicted_class = probabilities.argmax(axis=1)[0] # 3
     predicted_label = class_names[predicted_class] # Health
 
